@@ -19,7 +19,7 @@ A backend system designed to manage financial records with role-based access con
    DB_NAME=finance_db  
 
 4. Start the server:
-   node app.js
+   node server
 
 ---
 
